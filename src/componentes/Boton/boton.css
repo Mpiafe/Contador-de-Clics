@@ -1,0 +1,25 @@
+button{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color:white;
+    border:2px solid white;
+    border-radius: 15px;
+    margin: 15px;
+    cursor:pointer;
+}
+button:hover{
+    background-color: green;
+}
+.boton-Clic{
+    background-color: blue ;
+}
+.reiniciar{
+    background-color: blue;
+}
